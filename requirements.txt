@@ -1,0 +1,4 @@
+# my_solver.py n'utilise que la bibliothèque standard.
+# Dépendances de visualize.py uniquement :
+networkx>=3.0
+matplotlib>=3.7
