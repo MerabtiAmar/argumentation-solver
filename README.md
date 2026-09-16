@@ -68,4 +68,4 @@ Code distribué sous [licence MIT](LICENSE).
 
 ## Auteurs
 
-**Amar Merabti** (M1 DCI) et **Abdelkader Souayah** (M1 VMI) — Université Paris Cité.
+**Amar Merabti** (M1 DCI) — Université Paris Cité.
